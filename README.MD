@@ -8,4 +8,4 @@ The questions are as follows:
 4. Write a function that checks whether an element occurs in an array
 5. Write a program that asks the user for a number n and prints it's factorial using recursion
 
-Feel free to change to change the code to your liking and happy coding!
+Feel free to change to change the code to your liking and happy coding! :bowtie:
