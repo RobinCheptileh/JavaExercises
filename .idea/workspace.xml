@@ -7,29 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8cc9e5-770f-45bb-ac6b-501513561a02" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/JavaExcercises_jar/JavaExcercises.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExcercises/com/cognition/main/Ex1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExcercises/com/cognition/main/Ex2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExcercises/com/cognition/main/Ex3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExcercises/com/cognition/main/Ex4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExcercises/com/cognition/main/Ex5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExcercises/com/cognition/main/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaExcercises_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaExcercises.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/JavaExcercises/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cognition/main/Ex1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cognition/main/Ex2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cognition/main/Ex3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cognition/main/Ex4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cognition/main/Ex5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/cognition/main/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,8 +66,8 @@
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="160">
-                <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+              <first_editor relative-caret-position="128">
+                <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -717,12 +695,12 @@
       <workItem from="1496836814693" duration="10991000" />
       <workItem from="1496853045165" duration="9000" />
       <workItem from="1496853108317" duration="18000" />
-      <workItem from="1496853213492" duration="800000" />
+      <workItem from="1496853213492" duration="985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11818000" />
+    <option name="totallyTimeSpent" value="12003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1440" height="870" extended-state="6" />
@@ -993,8 +971,8 @@
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="160">
-            <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+          <first_editor relative-caret-position="128">
+            <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />

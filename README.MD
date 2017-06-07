@@ -1,4 +1,4 @@
-#JAVA EXERCISES
+# JAVA EXERCISES
 
 This is a set of five simple Java exercises. The project is organized in such a manner that it has a main file (Main.java) where it lists all questions and allows you to choose which you'd like to view the solution.
 The questions are as follows:
