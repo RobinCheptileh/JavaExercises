@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a8cc9e5-770f-45bb-ac6b-501513561a02" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/cognition/main/Ex2.java" afterPath="$PROJECT_DIR$/src/com/cognition/main/Ex2.java" />
-    </list>
+    <list default="true" id="7a8cc9e5-770f-45bb-ac6b-501513561a02" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -664,12 +662,12 @@
       <workItem from="1496853045165" duration="9000" />
       <workItem from="1496853108317" duration="18000" />
       <workItem from="1496853213492" duration="3771000" />
-      <workItem from="1496907835542" duration="2645000" />
+      <workItem from="1496907835542" duration="2698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17434000" />
+    <option name="totallyTimeSpent" value="17487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1440" height="870" extended-state="6" />
