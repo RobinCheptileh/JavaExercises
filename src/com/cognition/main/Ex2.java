@@ -8,8 +8,8 @@ import java.util.Scanner;
  * 2. Write a program that asks the user for a number n and gives him the possibility to choose between computing the sum and computing the product of 1,…,n.
  */
 public class Ex2 {
-    private static int sum = 0;
-    private static int product = 1;
+    private static float sum = 0;
+    private static float product = 1;
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
