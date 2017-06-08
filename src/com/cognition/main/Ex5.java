@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 5. Write a program that asks the user for a number n and prints it's factorial using recursion
  */
 public class Ex5 {
-    private static int product = 1;
+    private static float product = 1;
     public static void main(String[] args){
         int n;
 
