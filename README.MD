@@ -1,6 +1,6 @@
 # JAVA EXERCISES
 
-This is a set of five simple Java exercises. The project is organized in such a manner that it has a main file (Main.java) where it lists all questions and allows you to choose which you'd like to view the solution.
+This is a set of five simple Java exercises. The project was created using Intellij IDEA and is organized in such a manner that it has a main file (Main.java) where it lists all questions and allows you to choose which you'd like to view the solution.
 The questions are as follows:
 1. Write a program that asks the user for a number n and prints the sum of the numbers 1 to n
 2. Write a program that asks the user for a number n and gives him the possibility to choose between computing the sum and computing the product of 1,…,n.
